@@ -4,7 +4,7 @@ My name is Yinon, 27 y.o , about to finish my CS degree from Ariel University.
 I am passionate about software development and eager to learn new technologies.
 Looking for my first role as a web developer!
 
-In this repository you will find some of my projects and work assignments from the last couple of years.
+In this repository you will find some of my projects and assignments from the last couple of years.
 
 ### Here are some of my projects:
 
