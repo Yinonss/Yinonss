@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Yinon, 27 y.o , software engineer at Matrix, about to finish my CS degree from Ariel University.
+My name is Yinon, 27 y.o , software engineer at Matrix, about to finish my CS degree from Ariel University.<br />
 Passionate about software development and eager to learn new technologies!
 
 In this repository you will find some of my projects and assignments from the last couple of years.
