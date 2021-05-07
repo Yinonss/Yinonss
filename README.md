@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-My name is Yinon, 27 y.o , about to finish my CS degree from Ariel University.
-I am passionate about software development and eager to learn new technologies.
-Looking for my first role as a web developer!
+My name is Yinon, 27 y.o , software engineer at Matrix, about to finish my CS degree from Ariel University.
+Passionate about software development and eager to learn new technologies!
 
 In this repository you will find some of my projects and assignments from the last couple of years.
 
